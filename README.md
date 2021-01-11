@@ -1,4 +1,4 @@
-Wikipedia-like online wikipedia.
+Wikipedia-like online encyclopedia.
 
 Built using Django Framework.
 
