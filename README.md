@@ -1,21 +1,24 @@
-#Wiki - a Wikipedia-like online encyclopedia.
+# Wiki - _a Wikipedia-like online encyclopedia_
 
-###Description
-* Developped using Django Framework.
-* Users can create or edit pages using Markdown syntax.
-* Pages are rendered in HTML.
-* Users can search for pages, either through the Index or the search bar.
-* Users can use the "random page" feature to access a random page.
+### Project Description
+* Wiki is an online wikipedia, where users can create or edit pages using Markdown syntax
+* Users can search for pages, either using the index or the search bar
+* The "random page" feature to allows access to a random page
 
-###Project Setup
-#####Installing Modules
+### How is it made?
+* Developed with Python 3, using the Django framework
+* Content is converted from Markdown syntax to HTML
+* Pages are rendered in HTML and CSS
+
+### Project Setup
+##### Installing Required Modules
 ```
 pip3 install Django
 ```
 ```
 pip3 install markdown2
 ```
-#####Run Server
+##### Running the Server
 ```
 python3 manage.py runserver
 ```
