@@ -1,5 +1,4 @@
-# Wiki 
-##_a Wikipedia-like online encyclopedia_
+# Wiki \n _a Wikipedia-like online encyclopedia_
 
 ### Project Description
 * Wiki is an online wikipedia, where users can create or edit pages using Markdown syntax
