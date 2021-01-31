@@ -1,7 +1,7 @@
-# Wiki, _a Wikipedia-like online encyclopedia_
+# Wiki Encyclopedia
 
 ### Project Description
-* Wiki is an online wikipedia, where users can create or edit pages using Markdown syntax
+* Wiki is an online, _Wikipedia-like_ encyclopedia, where users can create and edit articles using Markdown syntax
 * Users can search for pages, either using the index or the search bar
 * The "random page" feature to allows access to a random page
 
