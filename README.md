@@ -5,6 +5,9 @@
 * Users can search for pages, either using the index or the search bar
 * The "random page" feature to allows access to a random page
 
+### Demo
+https://youtu.be/PBiqXvihuEo
+
 ### How is it made?
 * Developed with Python 3, using the Django framework
 * Content is converted from Markdown syntax to HTML
